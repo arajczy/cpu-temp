@@ -1,0 +1,21 @@
+{
+  "name": "cpu-temp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Display RaspberryPi CPU temperature",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "cpu",
+    "temperature"
+  ],
+  "author": "Adam Rajczy",
+  "license": "MIT"
+}
